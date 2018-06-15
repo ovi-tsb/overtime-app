@@ -10,7 +10,7 @@ RSpec.describe Post, type: :model do
       expect(@post).to be_valid
     end
 
-    it "cannot be created without date, rational" do
+    it "cannot be created without date and rational" do
       @post.date = nil
       @post.rationale = nil
       expect(@post).to_not be_valid
