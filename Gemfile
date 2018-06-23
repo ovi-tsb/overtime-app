@@ -14,6 +14,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
+gem 'gritter', '~> 1.2'
 
 
 
