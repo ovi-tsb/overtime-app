@@ -15,6 +15,8 @@ gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
 gem 'gritter', '~> 1.2'
+gem 'administrate', '~> 0.10.0'
+gem 'bourbon'
 
 
 
