@@ -4,7 +4,7 @@ ruby '2.4.1'
 
 gem 'rails', '~> 5.2.0'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 
 gem 'uglifier', '>= 1.3.0'
 gem 'devise', '~> 4.4', '>= 4.4.3'
@@ -18,6 +18,7 @@ gem 'gritter', '~> 1.2'
 gem 'administrate', '~> 0.10.0'
 gem 'bourbon'
 gem 'pundit', '~> 1.1'
+
 
 
 
