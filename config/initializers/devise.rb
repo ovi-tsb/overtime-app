@@ -281,5 +281,5 @@ Devise.setup do |config|
   # so you need to do it manually. For the users scope, it would be:
   # config.omniauth_path_prefix = '/my_engine/users/auth'
 
-  config.secret_key = ENV['DEVISE_SECRET_KEY'] if Rails.env.production?
+  config.secret_key = '4ea7db386e0eb75c9a055c0f15f73e89b5a2950cc10bd1c76314946e252efadf041a564f13acaed526a75854ab0c2fc61b2f9a0d3263ff0fd8abce994dd11ed4'
 end
