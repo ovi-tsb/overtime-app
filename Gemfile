@@ -22,6 +22,7 @@ gem 'twilio-ruby', '~> 5.11', '>= 5.11.1'
 gem 'dotenv-rails', :groups => [:development, :test]
 gem 'kaminari', '~> 1.1', '>= 1.1.1'
 gem 'rails_12factor'
+gem 'newrelic_rpm'
 
 
 
