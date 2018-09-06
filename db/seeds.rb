@@ -32,7 +32,7 @@ puts "3 Audit logs have been created"
         dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
         ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
         dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
-        nulla pariatur.", user_id: @employee.id, overtime_request: 2.5)
+        nulla pariatur.", user_id: @employee.id, daily_hours: 12.5)
 end
 puts "100 Posts have been created"
 
