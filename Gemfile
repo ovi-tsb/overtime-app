@@ -15,7 +15,7 @@ gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
 gem 'gritter', '~> 1.2'
-gem 'administrate', '~> 0.10.0'
+gem "administrate", ">= 0.13.0"
 gem 'bourbon'
 gem 'pundit', '~> 1.1'
 gem 'twilio-ruby', '~> 5.11', '>= 5.11.1'
