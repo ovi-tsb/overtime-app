@@ -20,7 +20,7 @@ gem 'bourbon'
 gem 'pundit', '~> 1.1'
 gem 'twilio-ruby', '~> 5.11', '>= 5.11.1'
 gem 'dotenv-rails', :groups => [:development, :test]
-gem 'kaminari', '~> 1.1', '>= 1.1.1'
+gem 'kaminari', '~> 1.2'
 gem 'rails_12factor'
 gem 'newrelic_rpm'
 gem 'bootstrap-datepicker-rails', '~> 1.8', '>= 1.8.0.1'
